@@ -1,3 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Example of multilingual Maven project,com.acme.multilingual,KotlinHelloWorld,8,11,0,0,2,3,1,2,1,2
-Example of multilingual Maven project,com.acme.multilingual,HelloWorld,4,7,0,0,2,3,1,2,1,2
