@@ -1,0 +1,5 @@
+# Created at 2023-04-16T18:05:00.061
+Boot Manifest-JAR contains absolute paths in classpath 'D:\sonar-scanning-examples\sonarqube-scanner-maven\maven-multimodule\tests\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
